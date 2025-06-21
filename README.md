@@ -1,8 +1,3 @@
-# DEMO
-description 
-## subheading
-poker
+ what about you?
 
-## i am a good student
-
- what about you
+I heard poker is your favorite game!
